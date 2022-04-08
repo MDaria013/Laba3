@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Laba3.1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Laba3_1_jar</output-path>
+    <root id="archive" name="Laba3.1.jar">
+      <element id="module-output" name="Laba3.1" />
+      <element id="extracted-dir" path="$USER_HOME$/jar1/stax-api-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/jar1/json-simple-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/jar1/snakeyaml-1.13.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

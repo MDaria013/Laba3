@@ -1,4 +1,4 @@
-reactorType:
+ReactorType:
   - name: MKER
     burnup: 30
     kpd: 0.352

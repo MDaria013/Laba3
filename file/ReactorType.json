@@ -1,5 +1,5 @@
 [
-    {   "classs" : "MKER",
+    {"class" : "MKER",
 	"burnup" : 30.0,
 	"kpd" : 0.352 ,
 	"enrichment" : 0.024,
@@ -8,7 +8,7 @@
 	"life_time" : 50.0,
 	"first_load" : 192.0
     },
-    {   "classs" : "RBMK",
+    {"class" : "RBMK",
 	"burnup" : 25.0,
 	"kpd" : 0.3125 ,
 	"enrichment" : 0.027,
@@ -17,7 +17,7 @@
 	"life_time" : 40.0,
 	"first_load" : 192.0
     },
-    {   "classs" : "VVER_1000",
+    {"class" : "VVER_1000",
 	"burnup" : 40.0,
 	"kpd" : 0.33 ,
 	"enrichment" : 0.0385,
@@ -26,7 +26,7 @@
 	"life_time" : 60.0,
 	"first_load" : 79.84
     },
-    {   "classs" : "AP1000",
+    {"class" : "AP1000",
 	"burnup" : 43.20,
 	"kpd" : 0.339 ,
 	"enrichment" : 0.048,
@@ -35,7 +35,7 @@
 	"life_time" : 60.0,
 	"first_load" : 93.65
     },
-    {   "classs" : "BWR",
+    {"class" : "BWR",
 	"burnup" : 45.0,
 	"kpd" : 0.343 ,
 	"enrichment" : 0.041,
@@ -44,7 +44,8 @@
 	"life_time" : 60.0,
 	"first_load" : 128.00
     },
-    {   "classs" : "ABWR",
+    
+	{"class" : "ABWR",
 	"burnup" : 46.40,
 	"kpd" : 0.3655 ,
 	"enrichment" : 0.036,
@@ -53,7 +54,7 @@
 	"life_time" : 60.0,
 	"first_load" : 128.00
     },
-    {   "classs" : "EPR",
+    {"class" : "EPR",
 	"burnup" : 36.10,
 	"kpd" : 0.3515 ,
 	"enrichment" : 0.032,
@@ -62,7 +63,7 @@
 	"life_time" : 60.0,
 	"first_load" : 140.66
     },
-    {   "classs" : "MAGNOX",
+    {"class" : "MAGNOX",
 	"burnup" : 4.5,
 	"kpd" : 0.23 ,
 	"enrichment" : 0.01,
@@ -71,7 +72,7 @@
 	"life_time" : 60.0,
 	"first_load" : 120.0
     },
-    {   "classs": "BN", 
+    {"class": "BN", 
 	"burnup": 140.0, 
 	"kpd": 0.4205, 
 	"enrichment": 0.21, 
@@ -80,7 +81,7 @@
 	"life_time" : 60.0, 
 	"first_load" : 50.4
     },
-    {   "classs": "PWR", 
+    {"class": "PWR", 
 	"burnup": 42.0, 
 	"kpd": 0.34, 
 	"enrichment": 0.045,
@@ -89,7 +90,7 @@
 	"life_time" : 50.0,
 	"first_load" : 74.0
     },
-    {   "classs": "CPR-1000", 
+    {"class": "CPR-1000", 
 	"burnup": 52.0,
 	"kpd": 0.351, 
 	"enrichment": 0.045, 
@@ -98,7 +99,7 @@
 	"life_time" : 40.0, 
 	"first_load" : 77.0
     },
-    {   "classs": "CANDU", 
+    {"class": "CANDU", 
 	"burnup": 8.0, 
 	"kpd": 0.30, 
 	"enrichment": 0.0071,
@@ -107,7 +108,7 @@
 	"life_time" : 60.0, 
 	"first_load" : 38.9
     },
-    {   "classs" : "PHWR", 
+    {"class" : "PHWR", 
 	"burnup" : 8.0,
 	"kpd" : 0.30 ,
 	"enrichment" : 0.0071,
@@ -116,16 +117,16 @@
 	"life_time" : 60.0, 
 	"first_load" : 38.9 
     },
-    {   "classs" : "KLT-40", 
+    {"class" : "KLT-40", 
 	"burnup" : 42.0, 
-        "kpd" : 0.30 , 
+    "kpd" : 0.30 , 
 	"enrichment" : 0.16, 
 	"termal_capacity" : 150.0, 
 	"electrical_capacity" : 32.0, 
 	"life_time" : 36.0, 
 	"first_load" : 0.007
     },
-    {   "classs" : "PWR_TEST",
+    {"class" : "PWR_TEST",
 	"burnup" : 40.0,
 	"kpd" : 0.33 ,
 	"enrichment" : 0.044,
